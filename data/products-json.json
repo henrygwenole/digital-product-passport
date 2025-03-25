@@ -1,0 +1,566 @@
+[
+  {
+    "qr_code_id": "LS001",
+    "product_id": "LS-ORG-001",
+    "name": "Organic Lentil Soup",
+    "variant": "Regular",
+    "batch_number": "BT45991",
+    "manufacturing_date": "2025-03-27",
+    "expiration_date": "2028-03-27",
+    "materials": {
+      "Can Body": "Recycled steel (min. 30% recycled content, 0.21mm thickness)",
+      "Can Lid": "Recycled aluminum (min. 50% recycled content, 0.15mm thickness)",
+      "Inner Coating": "Plant-based polymer (BPA, BPS, and PFAS-free)",
+      "Label": "Stone paper (calcium carbonate-based) with vegetable-based ink",
+      "Adhesive": "Organic starch-based, food-safe adhesive"
+    },
+    "compliance_standards": [
+      "FDA Title 21 CFR 175.300 (food contact surfaces)",
+      "EU Regulation No 1935/2004 (food contact materials)",
+      "USDA Organic Certified",
+      "ISO 22000:2018 (food safety management)",
+      "BRC Global Standard for Food Safety (Grade A)"
+    ],
+    "sustainability_metrics": {
+      "Recyclability": "99% recyclable",
+      "Carbon Footprint": "0.67 kg CO₂e per unit",
+      "Water Usage": "1.8 liters per unit",
+      "Primary Energy Demand": "9.6 MJ per unit"
+    },
+    "traceability": {
+      "Raw Material Supplier": "GreenCan Solutions (Batch: GC-78556)",
+      "Manufacturing Facility": "Plant 2, Line 1",
+      "Quality Control Inspector": "ID 328",
+      "Product Testing": "Passed (Ref: QT-89730)"
+    },
+    "compliance_checklist": [
+      "Material composition verified",
+      "Coating type confirmed BPA-free",
+      "Label adhesive safety checked",
+      "Batch number matches production records",
+      "Expiration date correctly printed",
+      "Sustainability metrics validated",
+      "Supplier certification current",
+      "Food safety standards met",
+      "Manufacturing facility approved",
+      "Quality control inspection completed"
+    ]
+  },
+  {
+    "qr_code_id": "LS002",
+    "product_id": "LS-ORG-LS-002",
+    "name": "Organic Lentil Soup",
+    "variant": "Low Sodium",
+    "batch_number": "BT45992",
+    "manufacturing_date": "2025-03-27",
+    "expiration_date": "2028-03-27",
+    "materials": {
+      "Can Body": "Recycled steel (min. 30% recycled content, 0.21mm thickness)",
+      "Can Lid": "Recycled aluminum (min. 50% recycled content, 0.15mm thickness)",
+      "Inner Coating": "Plant-based polymer (BPA, BPS, and PFAS-free)",
+      "Label": "Stone paper (calcium carbonate-based) with vegetable-based ink",
+      "Adhesive": "Organic starch-based, food-safe adhesive"
+    },
+    "compliance_standards": [
+      "FDA Title 21 CFR 175.300 (food contact surfaces)",
+      "EU Regulation No 1935/2004 (food contact materials)",
+      "USDA Organic Certified",
+      "ISO 22000:2018 (food safety management)",
+      "BRC Global Standard for Food Safety (Grade A)",
+      "Low Sodium Health Claim (21 CFR 101.61)"
+    ],
+    "sustainability_metrics": {
+      "Recyclability": "99% recyclable",
+      "Carbon Footprint": "0.67 kg CO₂e per unit",
+      "Water Usage": "1.8 liters per unit",
+      "Primary Energy Demand": "9.6 MJ per unit"
+    },
+    "traceability": {
+      "Raw Material Supplier": "GreenCan Solutions (Batch: GC-78557)",
+      "Manufacturing Facility": "Plant 2, Line 1",
+      "Quality Control Inspector": "ID 328",
+      "Product Testing": "Passed (Ref: QT-89731)"
+    },
+    "compliance_checklist": [
+      "Material composition verified",
+      "Coating type confirmed BPA-free",
+      "Label adhesive safety checked",
+      "Batch number matches production records",
+      "Expiration date correctly printed",
+      "Sustainability metrics validated",
+      "Supplier certification current",
+      "Food safety standards met",
+      "Manufacturing facility approved",
+      "Quality control inspection completed"
+    ]
+  },
+  {
+    "qr_code_id": "LS003",
+    "product_id": "LS-CON-003",
+    "name": "Conventional Lentil Soup",
+    "variant": "Regular",
+    "batch_number": "BT45993",
+    "manufacturing_date": "2025-03-28",
+    "expiration_date": "2028-03-28",
+    "materials": {
+      "Can Body": "Tin-plated steel (0.20mm thickness)",
+      "Can Lid": "Aluminum (0.15mm thickness)",
+      "Inner Coating": "Epoxy resin (BPA-free)",
+      "Label": "Recycled paper with soy-based ink",
+      "Adhesive": "Water-based, food-safe adhesive"
+    },
+    "compliance_standards": [
+      "FDA Title 21 CFR 175.300 (food contact surfaces)",
+      "EU Regulation No 1935/2004 (food contact materials)",
+      "ISO 22000:2018 (food safety management)",
+      "BRC Global Standard for Food Safety (Grade A)"
+    ],
+    "sustainability_metrics": {
+      "Recyclability": "95% recyclable",
+      "Carbon Footprint": "0.82 kg CO₂e per unit",
+      "Water Usage": "2.2 liters per unit",
+      "Primary Energy Demand": "12.0 MJ per unit"
+    },
+    "traceability": {
+      "Raw Material Supplier": "MetalCan Corp (Batch: MC-58735)",
+      "Manufacturing Facility": "Plant 3, Line 2",
+      "Quality Control Inspector": "ID 438",
+      "Product Testing": "Passed (Ref: QT-89732)"
+    },
+    "compliance_checklist": [
+      "Material composition verified",
+      "Coating type confirmed BPA-free",
+      "Label adhesive safety checked",
+      "Batch number matches production records",
+      "Expiration date correctly printed",
+      "Sustainability metrics validated",
+      "Supplier certification current",
+      "Food safety standards met",
+      "Manufacturing facility approved",
+      "Quality control inspection completed"
+    ]
+  },
+  {
+    "qr_code_id": "LS004",
+    "product_id": "LS-CON-LS-004",
+    "name": "Conventional Lentil Soup",
+    "variant": "Low Sodium",
+    "batch_number": "BT45994",
+    "manufacturing_date": "2025-03-28",
+    "expiration_date": "2028-03-28",
+    "materials": {
+      "Can Body": "Tin-plated steel (0.20mm thickness)",
+      "Can Lid": "Aluminum (0.15mm thickness)",
+      "Inner Coating": "Epoxy resin (BPA-free)",
+      "Label": "Recycled paper with soy-based ink",
+      "Adhesive": "Water-based, food-safe adhesive"
+    },
+    "compliance_standards": [
+      "FDA Title 21 CFR 175.300 (food contact surfaces)",
+      "EU Regulation No 1935/2004 (food contact materials)",
+      "ISO 22000:2018 (food safety management)",
+      "BRC Global Standard for Food Safety (Grade A)",
+      "Low Sodium Health Claim (21 CFR 101.61)"
+    ],
+    "sustainability_metrics": {
+      "Recyclability": "95% recyclable",
+      "Carbon Footprint": "0.82 kg CO₂e per unit",
+      "Water Usage": "2.2 liters per unit",
+      "Primary Energy Demand": "12.0 MJ per unit"
+    },
+    "traceability": {
+      "Raw Material Supplier": "MetalCan Corp (Batch: MC-58736)",
+      "Manufacturing Facility": "Plant 3, Line 2",
+      "Quality Control Inspector": "ID 438",
+      "Product Testing": "Passed (Ref: QT-89733)"
+    },
+    "compliance_checklist": [
+      "Material composition verified",
+      "Coating type confirmed BPA-free",
+      "Label adhesive safety checked",
+      "Batch number matches production records",
+      "Expiration date correctly printed",
+      "Sustainability metrics validated",
+      "Supplier certification current",
+      "Food safety standards met",
+      "Manufacturing facility approved",
+      "Quality control inspection completed"
+    ]
+  },
+  {
+    "qr_code_id": "LS005",
+    "product_id": "LS-VEG-005",
+    "name": "Lentil Soup with Vegetables",
+    "variant": "Regular",
+    "batch_number": "BT45995",
+    "manufacturing_date": "2025-03-29",
+    "expiration_date": "2028-03-29",
+    "materials": {
+      "Can Body": "Tin-free steel (0.20mm thickness)",
+      "Can Lid": "Aluminum (0.15mm thickness)",
+      "Inner Coating": "Oleoresin (natural coating)",
+      "Label": "FSC-certified paper with water-based ink",
+      "Adhesive": "Plant-based, food-safe adhesive"
+    },
+    "compliance_standards": [
+      "FDA Title 21 CFR 175.300 (food contact surfaces)",
+      "EU Regulation No 1935/2004 (food contact materials)",
+      "ISO 22000:2018 (food safety management)",
+      "BRC Global Standard for Food Safety (Grade A)"
+    ],
+    "sustainability_metrics": {
+      "Recyclability": "97% recyclable",
+      "Carbon Footprint": "0.75 kg CO₂e per unit",
+      "Water Usage": "2.0 liters per unit",
+      "Primary Energy Demand": "10.8 MJ per unit"
+    },
+    "traceability": {
+      "Raw Material Supplier": "GreenCan Solutions (Batch: GC-78560)",
+      "Manufacturing Facility": "Plant 2, Line 3",
+      "Quality Control Inspector": "ID 331",
+      "Product Testing": "Passed (Ref: QT-89734)"
+    },
+    "compliance_checklist": [
+      "Material composition verified",
+      "Coating type confirmed BPA-free",
+      "Label adhesive safety checked",
+      "Batch number matches production records",
+      "Expiration date correctly printed",
+      "Sustainability metrics validated",
+      "Supplier certification current",
+      "Food safety standards met",
+      "Manufacturing facility approved",
+      "Quality control inspection completed"
+    ]
+  },
+  {
+    "qr_code_id": "LS006",
+    "product_id": "LS-VEG-LS-006",
+    "name": "Lentil Soup with Vegetables",
+    "variant": "Low Sodium",
+    "batch_number": "BT45996",
+    "manufacturing_date": "2025-03-29",
+    "expiration_date": "2028-03-29",
+    "materials": {
+      "Can Body": "Tin-free steel (0.20mm thickness)",
+      "Can Lid": "Aluminum (0.15mm thickness)",
+      "Inner Coating": "Oleoresin (natural coating)",
+      "Label": "FSC-certified paper with water-based ink",
+      "Adhesive": "Plant-based, food-safe adhesive"
+    },
+    "compliance_standards": [
+      "FDA Title 21 CFR 175.300 (food contact surfaces)",
+      "EU Regulation No 1935/2004 (food contact materials)",
+      "ISO 22000:2018 (food safety management)",
+      "BRC Global Standard for Food Safety (Grade A)",
+      "Low Sodium Health Claim (21 CFR 101.61)"
+    ],
+    "sustainability_metrics": {
+      "Recyclability": "97% recyclable",
+      "Carbon Footprint": "0.75 kg CO₂e per unit",
+      "Water Usage": "2.0 liters per unit",
+      "Primary Energy Demand": "10.8 MJ per unit"
+    },
+    "traceability": {
+      "Raw Material Supplier": "GreenCan Solutions (Batch: GC-78561)",
+      "Manufacturing Facility": "Plant 2, Line 3",
+      "Quality Control Inspector": "ID 331",
+      "Product Testing": "Passed (Ref: QT-89735)"
+    },
+    "compliance_checklist": [
+      "Material composition verified",
+      "Coating type confirmed BPA-free",
+      "Label adhesive safety checked",
+      "Batch number matches production records",
+      "Expiration date correctly printed",
+      "Sustainability metrics validated",
+      "Supplier certification current",
+      "Food safety standards met",
+      "Manufacturing facility approved",
+      "Quality control inspection completed"
+    ]
+  },
+  {
+    "qr_code_id": "BB001",
+    "product_id": "BB-ORG-007",
+    "name": "Organic Baked Beans",
+    "variant": "Regular",
+    "batch_number": "BT45997",
+    "manufacturing_date": "2025-03-25",
+    "expiration_date": "2028-03-25",
+    "materials": {
+      "Can Body": "Recycled steel (min. 30% recycled content, 0.21mm thickness)",
+      "Can Lid": "Recycled aluminum (min. 50% recycled content, 0.15mm thickness)",
+      "Inner Coating": "Plant-based polymer (BPA, BPS, and PFAS-free)",
+      "Label": "Stone paper (calcium carbonate-based) with vegetable-based ink",
+      "Adhesive": "Organic starch-based, food-safe adhesive"
+    },
+    "compliance_standards": [
+      "FDA Title 21 CFR 175.300 (food contact surfaces)",
+      "EU Regulation No 1935/2004 (food contact materials)",
+      "USDA Organic Certified",
+      "ISO 22000:2018 (food safety management)",
+      "BRC Global Standard for Food Safety (Grade A)"
+    ],
+    "sustainability_metrics": {
+      "Recyclability": "99% recyclable",
+      "Carbon Footprint": "0.68 kg CO₂e per unit",
+      "Water Usage": "1.9 liters per unit",
+      "Primary Energy Demand": "9.8 MJ per unit"
+    },
+    "traceability": {
+      "Raw Material Supplier": "GreenCan Solutions (Batch: GC-78549)",
+      "Manufacturing Facility": "Plant 2, Line 2",
+      "Quality Control Inspector": "ID 329",
+      "Product Testing": "Passed (Ref: QT-89736)"
+    },
+    "compliance_checklist": [
+      "Material composition verified",
+      "Coating type confirmed BPA-free",
+      "Label adhesive safety checked",
+      "Batch number matches production records",
+      "Expiration date correctly printed",
+      "Sustainability metrics validated",
+      "Supplier certification current",
+      "Food safety standards met",
+      "Manufacturing facility approved",
+      "Quality control inspection completed"
+    ]
+  },
+  {
+    "qr_code_id": "BB002",
+    "product_id": "BB-ORG-LS-008",
+    "name": "Organic Baked Beans",
+    "variant": "Low Sugar",
+    "batch_number": "BT45998",
+    "manufacturing_date": "2025-03-25",
+    "expiration_date": "2028-03-25",
+    "materials": {
+      "Can Body": "Recycled steel (min. 30% recycled content, 0.21mm thickness)",
+      "Can Lid": "Recycled aluminum (min. 50% recycled content, 0.15mm thickness)",
+      "Inner Coating": "Plant-based polymer (BPA, BPS, and PFAS-free)",
+      "Label": "Stone paper (calcium carbonate-based) with vegetable-based ink",
+      "Adhesive": "Organic starch-based, food-safe adhesive"
+    },
+    "compliance_standards": [
+      "FDA Title 21 CFR 175.300 (food contact surfaces)",
+      "EU Regulation No 1935/2004 (food contact materials)",
+      "USDA Organic Certified",
+      "ISO 22000:2018 (food safety management)",
+      "BRC Global Standard for Food Safety (Grade A)",
+      "Reduced Sugar Health Claim (21 CFR 101.60)"
+    ],
+    "sustainability_metrics": {
+      "Recyclability": "99% recyclable",
+      "Carbon Footprint": "0.68 kg CO₂e per unit",
+      "Water Usage": "1.9 liters per unit",
+      "Primary Energy Demand": "9.8 MJ per unit"
+    },
+    "traceability": {
+      "Raw Material Supplier": "GreenCan Solutions (Batch: GC-78550)",
+      "Manufacturing Facility": "Plant 2, Line 2",
+      "Quality Control Inspector": "ID 329",
+      "Product Testing": "Passed (Ref: QT-89737)"
+    },
+    "compliance_checklist": [
+      "Material composition verified",
+      "Coating type confirmed BPA-free",
+      "Label adhesive safety checked",
+      "Batch number matches production records",
+      "Expiration date correctly printed",
+      "Sustainability metrics validated",
+      "Supplier certification current",
+      "Food safety standards met",
+      "Manufacturing facility approved",
+      "Quality control inspection completed"
+    ]
+  },
+  {
+    "qr_code_id": "BB003",
+    "product_id": "BB-CON-009",
+    "name": "Conventional Baked Beans",
+    "variant": "Regular",
+    "batch_number": "BT45999",
+    "manufacturing_date": "2025-03-26",
+    "expiration_date": "2028-03-26",
+    "materials": {
+      "Can Body": "Tin-plated steel (0.20mm thickness)",
+      "Can Lid": "Aluminum (0.15mm thickness)",
+      "Inner Coating": "Epoxy resin (BPA-free)",
+      "Label": "Recycled paper with soy-based ink",
+      "Adhesive": "Water-based, food-safe adhesive"
+    },
+    "compliance_standards": [
+      "FDA Title 21 CFR 175.300 (food contact surfaces)",
+      "EU Regulation No 1935/2004 (food contact materials)",
+      "ISO 22000:2018 (food safety management)",
+      "BRC Global Standard for Food Safety (Grade A)"
+    ],
+    "sustainability_metrics": {
+      "Recyclability": "95% recyclable",
+      "Carbon Footprint": "0.83 kg CO₂e per unit",
+      "Water Usage": "2.3 liters per unit",
+      "Primary Energy Demand": "12.2 MJ per unit"
+    },
+    "traceability": {
+      "Raw Material Supplier": "MetalCan Corp (Batch: MC-58740)",
+      "Manufacturing Facility": "Plant 3, Line 1",
+      "Quality Control Inspector": "ID 436",
+      "Product Testing": "Passed (Ref: QT-89738)"
+    },
+    "compliance_checklist": [
+      "Material composition verified",
+      "Coating type confirmed BPA-free",
+      "Label adhesive safety checked",
+      "Batch number matches production records",
+      "Expiration date correctly printed",
+      "Sustainability metrics validated",
+      "Supplier certification current",
+      "Food safety standards met",
+      "Manufacturing facility approved",
+      "Quality control inspection completed"
+    ]
+  },
+  {
+    "qr_code_id": "BB004",
+    "product_id": "BB-CON-LS-010",
+    "name": "Conventional Baked Beans",
+    "variant": "Low Sugar",
+    "batch_number": "BT46000",
+    "manufacturing_date": "2025-03-26",
+    "expiration_date": "2028-03-26",
+    "materials": {
+      "Can Body": "Tin-plated steel (0.20mm thickness)",
+      "Can Lid": "Aluminum (0.15mm thickness)",
+      "Inner Coating": "Epoxy resin (BPA-free)",
+      "Label": "Recycled paper with soy-based ink",
+      "Adhesive": "Water-based, food-safe adhesive"
+    },
+    "compliance_standards": [
+      "FDA Title 21 CFR 175.300 (food contact surfaces)",
+      "EU Regulation No 1935/2004 (food contact materials)",
+      "ISO 22000:2018 (food safety management)",
+      "BRC Global Standard for Food Safety (Grade A)",
+      "Reduced Sugar Health Claim (21 CFR 101.60)"
+    ],
+    "sustainability_metrics": {
+      "Recyclability": "95% recyclable",
+      "Carbon Footprint": "0.83 kg CO₂e per unit",
+      "Water Usage": "2.3 liters per unit",
+      "Primary Energy Demand": "12.2 MJ per unit"
+    },
+    "traceability": {
+      "Raw Material Supplier": "MetalCan Corp (Batch: MC-58741)",
+      "Manufacturing Facility": "Plant 3, Line 1",
+      "Quality Control Inspector": "ID 436",
+      "Product Testing": "Passed (Ref: QT-89739)"
+    },
+    "compliance_checklist": [
+      "Material composition verified",
+      "Coating type confirmed BPA-free",
+      "Label adhesive safety checked",
+      "Batch number matches production records",
+      "Expiration date correctly printed",
+      "Sustainability metrics validated",
+      "Supplier certification current",
+      "Food safety standards met",
+      "Manufacturing facility approved",
+      "Quality control inspection completed"
+    ]
+  },
+  {
+    "qr_code_id": "BB005",
+    "product_id": "BB-BAC-011",
+    "name": "Baked Beans with Bacon",
+    "variant": "Regular",
+    "batch_number": "BT46001",
+    "manufacturing_date": "2025-03-27",
+    "expiration_date": "2028-03-27",
+    "materials": {
+      "Can Body": "Tin-free steel (0.20mm thickness)",
+      "Can Lid": "Aluminum (0.15mm thickness)",
+      "Inner Coating": "Oleoresin (natural coating)",
+      "Label": "FSC-certified paper with water-based ink",
+      "Adhesive": "Plant-based, food-safe adhesive"
+    },
+    "compliance_standards": [
+      "FDA Title 21 CFR 175.300 (food contact surfaces)",
+      "EU Regulation No 1935/2004 (food contact materials)",
+      "ISO 22000:2018 (food safety management)",
+      "BRC Global Standard for Food Safety (Grade A)",
+      "USDA Meat Inspection"
+    ],
+    "sustainability_metrics": {
+      "Recyclability": "97% recyclable",
+      "Carbon Footprint": "0.78 kg CO₂e per unit",
+      "Water Usage": "2.1 liters per unit",
+      "Primary Energy Demand": "11.2 MJ per unit"
+    },
+    "traceability": {
+      "Raw Material Supplier": "GreenCan Solutions (Batch: GC-78562)",
+      "Manufacturing Facility": "Plant 2, Line 4",
+      "Quality Control Inspector": "ID 332",
+      "Product Testing": "Passed (Ref: QT-89740)"
+    },
+    "compliance_checklist": [
+      "Material composition verified",
+      "Coating type confirmed BPA-free",
+      "Label adhesive safety checked",
+      "Batch number matches production records",
+      "Expiration date correctly printed",
+      "Sustainability metrics validated",
+      "Supplier certification current",
+      "Food safety standards met",
+      "Manufacturing facility approved",
+      "Quality control inspection completed"
+    ]
+  },
+  {
+    "qr_code_id": "BB006",
+    "product_id": "BB-BAC-LS-012",
+    "name": "Baked Beans with Bacon",
+    "variant": "Low Sugar",
+    "batch_number": "BT46002",
+    "manufacturing_date": "2025-03-27",
+    "expiration_date": "2028-03-27",
+    "materials": {
+      "Can Body": "Tin-free steel (0.20mm thickness)",
+      "Can Lid": "Aluminum (0.15mm thickness)",
+      "Inner Coating": "Oleoresin (natural coating)",
+      "Label": "FSC-certified paper with water-based ink",
+      "Adhesive": "Plant-based, food-safe adhesive"
+    },
+    "compliance_standards": [
+      "FDA Title 21 CFR 175.300 (food contact surfaces)",
+      "EU Regulation No 1935/2004 (food contact materials)",
+      "ISO 22000:2018 (food safety management)",
+      "BRC Global Standard for Food Safety (Grade A)",
+      "USDA Meat Inspection",
+      "Reduced Sugar Health Claim (21 CFR 101.60)"
+    ],
+    "sustainability_metrics": {
+      "Recyclability": "97% recyclable",
+      "Carbon Footprint": "0.78 kg CO₂e per unit",
+      "Water Usage": "2.1 liters per unit",
+      "Primary Energy Demand": "11.2 MJ per unit"
+    },
+    "traceability": {
+      "Raw Material Supplier": "GreenCan Solutions (Batch: GC-78563)",
+      "Manufacturing Facility": "Plant 2, Line 4",
+      "Quality Control Inspector": "ID 332",
+      "Product Testing": "Passed (Ref: QT-89741)"
+    },
+    "compliance_checklist": [
+      "Material composition verified",
+      "Coating type confirmed BPA-free",
+      "Label adhesive safety checked",
+      "Batch number matches production records",
+      "Expiration date correctly printed",
+      "Sustainability metrics validated",
+      "Supplier certification current",
+      "Food safety standards met",
+      "Manufacturing facility approved",
+      "Quality control inspection completed"
+    ]
+  }
+]
